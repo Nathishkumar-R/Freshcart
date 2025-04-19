@@ -83,6 +83,7 @@
 .offer-today {
     background-image: url(images/menu-banner.jpg);
     height: 55vh;
+    background-size: cover;
 }
 
 .today {
